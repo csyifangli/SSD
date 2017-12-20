@@ -1,5 +1,5 @@
 # SSD工具包说明
-作者:沈牧天
+Done by Renesmt
 
 
 Shortest-Solution-guided Decimation算法,以欠定线性方程组$Dx=y$解空间中的欧几里得最短解作为索引,由$D$和$y$反推出原始稀疏信号$x_0$.
